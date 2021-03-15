@@ -7,6 +7,11 @@ from linked_lists import *
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
+    print(arrays_and_strings.question_1_6("aabcccccaaa"))
+    print(arrays_and_strings.question_1_6("abc"))
+    exit(0)
+    print(arrays_and_strings.question_1_4("tact coa"))
+    exit(0)
     # print(arrays_and_strings.question_1_1("unico"))
     # print(arrays_and_strings.question_1_1("unicorn"))
 
